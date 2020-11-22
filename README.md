@@ -26,7 +26,7 @@ two files in android folder:
 DatabaseConfig.php
 getdata.php
 
-Place this folder android in your xampp\htdocs\"android-folder-here"
+Place this folder android in your xampp\htdocs\<android-folder-here>
 In my case: C:\xampp\htdocs\android
 
 link to access heroes data using api in my case: http://<your-id-address>/android/getdata.php
