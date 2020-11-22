@@ -31,7 +31,7 @@ In my case: C:\xampp\htdocs\android
 
 link to access heroes data using api in my case: http://<your-id-address>/android/getdata.php
 get ip address using run command in cmd: ipconfig
-in my case :http://192.168.43.122/android/getdata.php
+in my case: http://192.168.43.122/android/getdata.php
 
 
 
