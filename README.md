@@ -1,5 +1,5 @@
 # RetrofitDagger2Example
-In this project, I demostrate how the depenency injection is done using dragger2.
+In this project, I demostrate how the dependency injection is done using dragger2.
 Dragger2 is most popular maintained by google dependency injection framework for android and java. 
 ```
 In this project,
